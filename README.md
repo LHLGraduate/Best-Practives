@@ -79,6 +79,8 @@ opportunity to describe what challenges your encountered and how they were solve
 Remember, the person screening your profile for the first time isn't always going to be
 technical.
 
+* [Tinder for Pets](https://github.com/LHLGraduate/final-project) - Example README for a LHL project.
+
 ### Contributors in Group Projects
 For your group project repositories make sure you list of each contributor and
 what part of the project was your responsibility.  Although GitHub provides
