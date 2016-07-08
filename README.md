@@ -68,7 +68,7 @@ and it will show potential employers that you're interested in continuing your
 learn and keeping up with the latest technology.
 
 * [2014 Most Influential Developers](https://github.com/floydwch/the-most-influential-developers-on-github)
-* [Most Active Contributors](https://github.com/floydwch/the-most-influential-developers-on-github)
+* [Most Active Contributors](https://gist.github.com/paulmillr/2657075/)
 * [Trending Developers](https://github.com/trending/developers)
 
 ## Repositories
