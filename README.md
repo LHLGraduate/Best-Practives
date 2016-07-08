@@ -25,8 +25,9 @@ The Bio is a great place to express your goals and objectives.
 What type of projects do you want to work on?  What are your goals?  Are you
 looking for a new role?
 
-```
-@lighthouse-labs graduate looking for new opportunities to grow as a professional developer. I :heartbeat: Ruby!
+``` markdown
+@lighthouse-labs graduate looking for new opportunities to grow
+as a professional developer. I :heartbeat: Ruby!
 ```
 
 ### Contributions
