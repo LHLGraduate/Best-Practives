@@ -74,8 +74,9 @@ learn and keeping up with the latest technology.
 ## Repositories
 
 ### Why the README is important
-README files are a great way to provide context for your repository.  The
-person screening your profile for the first time isn't always going to be
+README files are a great way to provide context for your repository. They're also an 
+opportunity to describe what challenges your encountered and how they were solved.
+Remember, the person screening your profile for the first time isn't always going to be
 technical.
 
 ### Contributors in Group Projects
